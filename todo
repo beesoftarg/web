@@ -1,0 +1,9 @@
+- Agregar endpoints para obtener textos 
+- Agregar endpoints para obtener imagenes
+- Agregar un archivo de configuracion para centralizar todo
+- Agregar metadata de cosas para compartir y demas
+
+
+1. Todo contenido tiene que ser traido dinamicamente
+2. Todo lo estatico que tiene que ser editado  tiene que tener un paso a paso con nombre de archivo y numero de linea
+
